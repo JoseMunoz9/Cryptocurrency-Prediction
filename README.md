@@ -40,11 +40,19 @@ strategic decision-making through the well based and researched demonstrated ana
 It is based on the predicted close value of the next day, compared to the rules definied on the business case.
 It returns a 'Sell' or 'Buy' "advice".
 
+![Feature output](https://github.com/SergJohn/Crypto-Prediction-2022-Project/blob/main/imgs-project/stas-dec-feat.jpeg?raw=true)
+
 ### Interactive Dashboard
 ---
 The Interactive Dashboard was created in order to display the findings and differences of the models on its results and caracteristics.
 
 It returns the graphs of each model implementation, and the predicted value of a 'x' amount of days.
+
+![Interactive Dashboard Main View, integrated within the statistical decision-making feature](https://github.com/SergJohn/Crypto-Prediction-2022-Project/blob/main/imgs-project/dash-main.jpeg?raw=true)
+
+![Dash - graph and prediction view](https://github.com/SergJohn/Crypto-Prediction-2022-Project/blob/main/imgs-project/dash001.jpeg?raw=true)
+
+![Dash - graphs comparison](https://github.com/SergJohn/Crypto-Prediction-2022-Project/blob/main/imgs-project/dash002.jpeg?raw=true)
 
 
 ## Real time Bitcoin API used

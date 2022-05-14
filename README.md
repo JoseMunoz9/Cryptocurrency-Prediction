@@ -62,4 +62,4 @@ It returns the graphs of each model implementation, and the predicted value of a
 
 ## Notes
 ---
-In order to attempt to achieve a more accurate results the next steps for the statistical decision would be to use a **multivariate multi-step Time Series Forecasting Model**
+In order to attempt to achieve a more accurate results the next steps for the statistical decision would be to use a **multi-step Time Series Forecasting Model**
